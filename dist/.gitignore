@@ -4,4 +4,11 @@
 node_modules
 dist
 .cache
+
+# Ignore environment-specific files
 /credentials.py
+
+#ignore folders 
+text/
+
+text/*.txt 
